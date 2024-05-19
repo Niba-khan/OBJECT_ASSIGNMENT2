@@ -113,7 +113,7 @@ type product = {
 }
 
 let T_shirt:product = {
-    name: "Nike",
+    name: "Monark",
     price: 3000,
     color: "Red",
     Inventory: {
